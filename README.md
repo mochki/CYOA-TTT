@@ -9,3 +9,7 @@ you win or tie every single time.
 It's been done before, I know, shut up.
 
 results.txt is every possible legal outcome
+
+First try using TS. To run:
+
+`npm run start`
